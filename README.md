@@ -17,7 +17,7 @@ To run the API automation tests, ensure that you have the following prerequisite
 1. Clone the repository:
 
    ```shell
-   git clone [repository-url]
+   git clone https://github.com/sgavirias15/KoombeaApiTest.git
    ```
 
 
