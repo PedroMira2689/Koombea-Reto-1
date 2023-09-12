@@ -1,4 +1,4 @@
-# Koombea Api Test
+# Api Challenge
 
 This project demonstrates API automation testing using IntelliJ in Java Language. It focuses on validating the status code, response payload, and response header of the following API. https://rickandmortyapi.com/
 
