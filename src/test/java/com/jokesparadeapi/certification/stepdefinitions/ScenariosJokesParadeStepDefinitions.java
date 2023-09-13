@@ -24,7 +24,7 @@ import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 public class ScenariosJokesParadeStepDefinitions {
     Actor usuario = Actor.named("user");
 
-
+//  
     @Given("^that the user knows the jokes parade api$")
     public void that_the_user_knows_the_jokes_parade_api() {
         usuario.whoCan(CallAnApi.at(Constants.JOKES_API));
@@ -55,7 +55,7 @@ public class ScenariosJokesParadeStepDefinitions {
     }
 
 
-   
+
 
 
 
