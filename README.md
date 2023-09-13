@@ -1,13 +1,13 @@
 # Api Challenge
 
-This project demonstrates API automation testing using IntelliJ in Java Language. It focuses on validating the status code, response payload, and response header of the following API. https://rickandmortyapi.com/
+This project demonstrates API automation testing using IntelliJ in Java Language. It focuses on validating the status code, response payload, and response header of the following API. https://official-joke-api.appspot.com/jokes/programming/ten 
 
 ## Prerequisites
 
 To run the API automation tests, ensure that you have the following prerequisites installed:
 
-- Java Vesion 1.8.0
-- IntelliJ 2019.2.4
+- Java Vesion 15.0.2
+- IntelliJ 2020.3.2
 - Gradle
 - Cucumber
 - Gherkin
@@ -17,7 +17,7 @@ To run the API automation tests, ensure that you have the following prerequisite
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/sgavirias15/KoombeaApiTest.git
+   git clone https://github.com/PedroMira2689/Koombea-Reto-1
    ```
 
 
