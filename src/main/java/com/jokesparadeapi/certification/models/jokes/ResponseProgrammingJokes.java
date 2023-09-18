@@ -1,6 +1,4 @@
-package com.jokesparadeapi.certification.models.characters;
-
-import java.util.ArrayList;
+package com.jokesparadeapi.certification.models.jokes;
 
 public class ResponseProgrammingJokes {
     private String type;
